@@ -1,0 +1,10 @@
+{
+  "nome":"Gilson",
+  "idade":37,
+  "esta_trabalhando": true,
+  "hobbies": ["jogar games", "comer", "beber refri"],
+  "detalhes_profissao":{
+    "profissao": "programador",
+    "empresa": "SpaceX"
+  }
+}
